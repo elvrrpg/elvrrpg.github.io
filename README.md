@@ -1,2 +1,0 @@
-# elvrrpg.github.io
-ELVRPG
